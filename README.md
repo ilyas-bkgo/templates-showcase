@@ -78,4 +78,4 @@ Calm, minimal template with an editorial/writing focus.
 
 ## Contact
 
-Interested in one of these templates or custom work? [Reach out](#) or check my [portfolio](https://ilyaslog.vercel.app).
+Interested in one of these templates or custom work? [Reach out](ilyaslambaitil8@gmail.com) or check my [portfolio](https://ilyas-gamma.vercel.app/).
