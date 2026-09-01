@@ -76,6 +76,14 @@ Calm, minimal template with an editorial/writing focus.
 
 ---
 
+## BRUT
+
+https://github.com/user-attachments/assets/76edb6a1-d10c-47a7-9b44-7f2e58926a87
+
+Bold, brutalist-style architecture studio template — raw typography, structural project listings, and an unapologetically minimal aesthetic.
+
+Stack: React 19, TypeScript, Tailwind
+
 ## Contact
 
 Interested in one of these templates or custom work? [Reach out](ilyaslambaitil8@gmail.com) or check my [portfolio](https://ilyas-gamma.vercel.app/).
